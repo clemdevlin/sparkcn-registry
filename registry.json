@@ -1,0 +1,28 @@
+{
+  "button": {
+    "description": "A simple reusable button component",
+    "files": [
+      "https://raw.githubusercontent.com/clemdevlin/sparkcn-registry/main/components/button/Button.tsx",
+      "https://raw.githubusercontent.com/clemdevlin/sparkcn-registry/main/components/button/styles.css"
+    ],
+    "dependencies": {
+      "clsx": "^2.0.0"
+    }
+  },
+  "card": {
+    "description": "A basic card component for displaying content",
+    "files": [
+      "https://raw.githubusercontent.com/clemdevlin/sparkcn-registry/main/components/card/Card.tsx",
+      "https://raw.githubusercontent.com/clemdevlin/sparkcn-registry/main/components/card/styles.css"
+    ],
+    "dependencies": {}
+  },
+  "alert": {
+    "description": "A notification alert component",
+    "files": [
+      "https://raw.githubusercontent.com/clemdevlin/sparkcn-registry/main/components/alert/Alert.tsx",
+      "https://raw.githubusercontent.com/clemdevlin/sparkcn-registry/main/components/alert/styles.css"
+    ],
+    "dependencies": {}
+  }
+}
